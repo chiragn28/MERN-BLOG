@@ -8,7 +8,8 @@ It is a MERN stack() blogging website through which one can create an account an
 We enter the username and password we want and click on register.
 This creates the account and we get a pop up saying Registration successful.
 
-![Screenshot 2023-08-07 010114](https://github.com/Chirag1969/MERN-BLOG/assets/72310140/763fdbf9-0bba-46c7-ae57-6d6f7130a618)
+![Screenshot 2023-08-09 143728](https://github.com/Chirag1969/MERN-BLOG/assets/72310140/69408e35-7310-488a-8508-52185e52200e)
+
 ## Logging into the account
 We use the credentials which we had used on the create account page to login into our account. If the info is wrong we get a pop up saying wrong credentials.
 
