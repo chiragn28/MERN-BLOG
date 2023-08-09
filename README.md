@@ -13,7 +13,8 @@ This creates the account and we get a pop up saying Registration successful.
 ## Logging into the account
 We use the credentials which we had used on the create account page to login into our account. If the info is wrong we get a pop up saying wrong credentials.
 
-![Screenshot 2023-08-07 010501](https://github.com/Chirag1969/MERN-BLOG/assets/72310140/c45843c8-6937-44c4-8d89-fc27b31225ab)
+![Screenshot 2023-08-09 143847](https://github.com/Chirag1969/MERN-BLOG/assets/72310140/44fa2d22-523d-4cde-a72e-b1fdf62fb00b)
+
 ## Creating a new post
 
 In the top right corner we have a button named "Create new post" which we have to click to do the same.
