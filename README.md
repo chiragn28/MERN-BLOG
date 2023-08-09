@@ -3,7 +3,7 @@
 
 It is a MERN stack() blogging website through which one can create an account and write articles which people without an account can read. The client side program is shown to the user and is used to take input. The API takes the info from frontend to the backend(nodeJS) where it is asks info from the mongo server, processes it and sent back to the frontend.
 
-#Methodology
+# Methodology
 
 ## Creating an account
 We enter the username and password we want and click on register.
